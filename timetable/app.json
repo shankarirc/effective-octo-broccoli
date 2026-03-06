@@ -4,26 +4,14 @@
     "slug": "anora-timetable",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "splash": {
-      "backgroundColor": "#6A0DAD"
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#6A0DAD"
-      },
       "package": "com.anora.timetable",
       "versionCode": 1
     },
-    "plugins": [
-      "expo-router"
-    ],
-    "scheme": "anora-timetable",
     "extra": {
       "eas": {
-        "projectId": "anora-timetable"
+        "projectId": "147be78a-e910-4227-b44d-10b21bc74059"
       }
     }
   }
