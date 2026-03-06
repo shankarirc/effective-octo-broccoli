@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Anora's Timetable",
+    "slug": "anora-timetable",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6A0DAD"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#6A0DAD"
+      },
+      "package": "com.anora.timetable",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "anora-timetable",
+    "extra": {
+      "eas": {
+        "projectId": "anora-timetable"
+      }
+    }
+  }
+}
