@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Anora's Timetable",
-    "slug": "anora-timetable",
+    "slug": "time-table",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
