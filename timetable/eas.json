@@ -5,12 +5,14 @@
   },
   "build": {
     "preview": {
+      "environment": "preview",
       "android": {
         "buildType": "apk",
         "credentialsSource": "remote"
       }
     },
     "production": {
+      "environment": "production",
       "android": {
         "buildType": "app-bundle",
         "credentialsSource": "remote"
