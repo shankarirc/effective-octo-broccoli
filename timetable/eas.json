@@ -5,8 +5,7 @@
   "build": {
     "preview": {
       "android": {
-        "buildType": "apk",
-        "gradleCommand": ":app:assembleRelease"
+        "buildType": "apk"
       }
     },
     "production": {
@@ -14,8 +13,5 @@
         "buildType": "aab"
       }
     }
-  },
-  "submit": {
-    "production": "aab"
   }
 }
